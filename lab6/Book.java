@@ -3,7 +3,7 @@ package lab6;
 Author     : Chidera Izuora
 Class Name : Book
 Date       : 03-29-2025
-Course     : CS2001
+Course     : CS2002
 Purpose    : Lab 6
 =================================*/
 public class Book {

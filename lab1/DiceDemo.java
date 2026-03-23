@@ -2,7 +2,7 @@
 Author     : Chidera Izuora
 Class Name : DiceDemo
 Date       : 03-15-2025
-Course     : CS2001
+Course     : CS2002
 Purpose    : Lab 1 
 =================================*/
 public class DiceDemo

@@ -1,11 +1,8 @@
-package lab2;
-
-
 /*================================
  Author     : Chidera Izuora
  Class Name : Book
  Date       : 02-02-2025
- Course     : CS2001
+ Course     : CS2002
  Purpose    : Lab 2 
 =================================*/
 

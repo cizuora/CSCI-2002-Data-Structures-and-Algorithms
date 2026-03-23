@@ -1,5 +1,3 @@
-package lab5;
-
 import java.util.ArrayList;
 import java.util.Collections;
 
@@ -7,7 +5,7 @@ import java.util.Collections;
 Author     : Chidera Izuora
 Class Name : Book
 Date       : 03-15-2025
-Course     : CS2001
+Course     : CS2002
 Purpose    : Lab 5
 =================================*/
 
