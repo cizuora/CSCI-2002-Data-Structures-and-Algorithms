@@ -1,11 +1,9 @@
-package Assignment3;
-
 import java.util.LinkedList;
 import java.util.Queue;
 
 /*================================
 Author     : Chidera Izuora
-Class Name : Book
+Class Name : RideQueue
 Date       : 03-15-2025
 Course     : CS2002
 Purpose    : Assignment 3

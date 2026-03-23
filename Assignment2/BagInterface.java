@@ -1,10 +1,8 @@
-package Assignment2;
-
 /**
 An interface that describes the operations of a bag of objects.
 @/*================================
 Author     : Chidera Izuora
-Class Name : Book
+Class Name : BagInterface
 Date       : 03-15-2025
 Course     : CS2002
 Purpose    : Assignment 2

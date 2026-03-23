@@ -1,5 +1,3 @@
-package Assignment2;
-
 import java.util.HashMap;
 import java.util.Map;
 
@@ -8,7 +6,7 @@ import java.util.Map;
  * 
 /*================================
 Author     : Chidera Izuora
-Class Name : Book
+Class Name : ArrayBag
 Date       : 03-15-2025
 Course     : CS2002
 Purpose    : Assignment 2

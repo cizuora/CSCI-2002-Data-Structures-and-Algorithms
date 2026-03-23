@@ -1,11 +1,9 @@
-package Assignment2;
-
 /**
  * ArrayBagTester class to test the implementation of ArrayBag methods. This
  * includes testing the 8 methods implemented in ArrayBag.
  * /*================================
 Author     : Chidera Izuora
-Class Name : Book
+Class Name : ArrayBagTester
 Date       : 03-15-2025
 Course     : CS2002
 Purpose    : Assignment 2

@@ -1,10 +1,8 @@
-package Assignment3;
-
 import java.util.Stack;
 
 /*================================
 Author     : Chidera Izuora
-Class Name : Book
+Class Name : TicketStack
 Date       : 03-15-2025
 Course     : CS2002
 Purpose    : Assignment 3

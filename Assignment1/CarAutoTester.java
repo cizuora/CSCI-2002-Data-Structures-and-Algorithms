@@ -1,10 +1,6 @@
-package Assignment1;
-
-
-
 /*================================
 Author     : Chidera Izuora
-Class Name : Book
+Class Name : Car
 Date       : 03-15-2025
 Course     : CS2002
 Purpose    : Assignment 1
